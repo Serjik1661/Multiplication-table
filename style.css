@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    justify-content: center;
+
+}
+
+.container{
+    border: 2px solid black;
+    width: 150vh;
+    height: 90vh;
+    text-align: center;
+}
+.containerTable{
+    display: flex;
+    justify-content:space-around;
+}
